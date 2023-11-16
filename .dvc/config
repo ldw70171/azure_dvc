@@ -1,0 +1,6 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = azure://azuredvcdemocontainer/
+    account_name = azuredvcdemoaccount
+    connection_string = AccountName=azuredvcdemoaccount;SharedAccessSignature=sp=racwdl&st=2023-11-16T20:24:48Z&se=2023-11-17T04:24:48Z&spr=https&sv=2022-11-02&sr=c&sig=vBtqaif8SRb8a840v1To8sxlh2XnPPlCahIIH407uLk%3D
